@@ -44,7 +44,7 @@
     "@uifabric/fluent-theme": "^7.0.2",
     "@uifabric/set-version": "^7.0.0",
     "color-check": "0.0.2",
-    "markdown-to-jsx": "6.6.1",
+    "markdown-to-jsx": "7.4.0",
     "office-ui-fabric-core": "^10.0.0",
     "office-ui-fabric-react": "^7.6.1",
     "react-custom-scrollbars": "^4.2.1",
